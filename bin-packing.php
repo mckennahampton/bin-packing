@@ -145,7 +145,7 @@
 		}
 	if ($itemTooBig == true) {
 		echo "item too big";
-		echo $item["option_name"];
+		echo $item["name"];
 	}
 	
 
