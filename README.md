@@ -36,4 +36,4 @@ If all the items will individually fit in the selected box, but the total items'
 
 Now, the algorithm has sucessfully selected a box that all items will fit in, and it has returned the relative data.
 
-I hope this helps someone out there, please feel free to modify with any improvements.
+I hope this helps someone out there, please feel free to comment with any improvements.
